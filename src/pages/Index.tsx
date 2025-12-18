@@ -81,7 +81,7 @@ const hytalePlugins = [
     icon: <Users className="h-6 w-6" />,
     version: "1.0.0 BETA",
     docsUrl: "/docs/cpt",
-    orbisUrl: "https://www.orbis.place/plugin/cpt",
+    orbisUrl: "https://www.orbis.place/plugin/clovespluraltale",
     shortName: "CPT"
   }
 ];
