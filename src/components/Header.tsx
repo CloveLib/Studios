@@ -22,7 +22,7 @@ export function Header() {
           <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-primary text-primary-foreground transition-transform duration-300 group-hover:scale-110">
             <Leaf className="h-5 w-5" />
           </div>
-          <span className="font-display text-xl font-semibold">CloveLib</span>
+          <span className="font-display text-xl font-semibold">CloveLib Studios</span>
         </Link>
 
         {/* Desktop Navigation */}
