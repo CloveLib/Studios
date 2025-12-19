@@ -19,7 +19,7 @@ const Privacy = () => {
             Privacy Policy
           </h1>
           <p className="text-muted-foreground opacity-0 animate-fade-in" style={{ animationDelay: "100ms" }}>
-            Last updated: December 4, 2025
+            Last updated: December 19, 2025
           </p>
         </div>
       </section>
