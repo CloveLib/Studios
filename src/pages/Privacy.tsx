@@ -3,7 +3,7 @@ import { Shield } from "lucide-react";
 import { usePageTitle } from "@/hooks/use-page-title";
 
 const Privacy = () => {
-  usePageTitle("CloveLib - Privacy Policy");
+  usePageTitle("CloveLib Studios - Privacy Policy");
   
   return (
     <Layout>
@@ -30,7 +30,7 @@ const Privacy = () => {
           <div className="rounded-xl border border-border/50 bg-card p-6 md:p-8 opacity-0 animate-fade-in" style={{ animationDelay: "150ms" }}>
             <h2 className="font-display text-xl font-semibold mb-4">Overview</h2>
             <p className="text-muted-foreground leading-relaxed">
-              CloveLib plugins are designed with privacy in mind. We collect minimal data and believe your server data belongs to you. This policy covers both our plugins and this website.
+              CloveLib Studios plugins are designed with privacy in mind. We collect minimal data and believe your server data belongs to you. This policy covers both our plugins and this website.
             </p>
           </div>
 

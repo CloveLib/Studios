@@ -45,7 +45,7 @@ const supportLinks = [
     title: "Twitter",
     description: "Tag our official Twitter for quick questions and updates.",
     icon: <Bird className="h-6 w-6" />,
-    url: "https://www.x.com/CloveLibPlugins",
+    url: "https://www.x.com/CloveLibStudios",
     buttonText: "Follow Us",
   },
   {
@@ -58,7 +58,7 @@ const supportLinks = [
 ];
 
 const Support = () => {
-  usePageTitle("CloveLib - Support");
+  usePageTitle("CloveLib Studios - Support");
   
   return (
     <Layout>
